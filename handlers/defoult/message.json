@@ -1,0 +1,55 @@
+{
+  "message_id": 353,
+  "from": {
+    "id": 6423925611,
+    "is_bot": false,
+    "first_name": ".",
+    "username": "BenjaminLibet",
+    "language_code": "ru"
+  },
+  "chat": {
+    "id": 6423925611,
+    "first_name": ".",
+    "username": "BenjaminLibet",
+    "type": "private"
+  },
+  "date": 1704112397,
+  "text": "ccccce"
+},
+
+// svayp
+{
+  "message_id": 366,
+  "from": {
+    "id": 6423925611,
+    "is_bot": false,
+    "first_name": ".",
+    "username": "BenjaminLibet",
+    "language_code": "ru"
+  },
+  "chat": {
+    "id": 6423925611,
+    "first_name": ".",
+    "username": "BenjaminLibet",
+    "type": "private"
+  },
+  "date": 1704113142,
+  "reply_to_message": {
+    "message_id": 365,
+    "from": {
+      "id": 6704688411,
+      "is_bot": true,
+      "first_name": "Help life bot",
+      "username": "helper_in_life_uz_bot"
+    },
+    "chat": {
+      "id": 6423925611,
+      "first_name": ".",
+      "username": "BenjaminLibet",
+      "type": "private"
+    },
+    "date": 1704113132,
+    "text": "Salom! Botdan faydalanish uchun tugmalardan faydalanig !"
+  },
+  "text": "hryh"
+}

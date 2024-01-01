@@ -1,0 +1,36 @@
+{
+  "id": "9143806337605303412",
+  "from": {
+    "id": 6423925611,
+    "is_bot": false,
+    "first_name": ".",
+    "username": "BenjaminLibet",
+    "language_code": "ru"
+  },
+  "message": {
+    "message_id": 183,
+    "from": {
+      "id": 6704688411,
+      "is_bot": true,
+      "first_name": "Help life bot",
+      "username": "helper_in_life_uz_bot"
+    },
+    "chat": {
+      "id": 6423925611,
+      "first_name": ".",
+      "username": "BenjaminLibet",
+      "type": "private"
+    },
+    "date": 1704019455,
+    "text": "Pasda korsatilgan tilni tanlashinggiz mukun !",
+    "reply_markup": {
+      "inline_keyboard": [
+        [{ "text": "Ru ", "callback_data": "lang:ru" }],
+        [{ "text": "Uz ✅", "callback_data": "lang:uz" }],
+        [{ "text": "En ", "callback_data": "lang:en" }]
+      ]
+    }
+  },
+  "chat_instance": "5295844402258736494",
+  "data": "succsecful"
+}
